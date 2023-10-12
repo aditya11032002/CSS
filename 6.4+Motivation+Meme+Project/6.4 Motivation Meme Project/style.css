@@ -1,0 +1,21 @@
+body{
+    background-color: black;
+}
+
+h1{
+    text-transform: uppercase;
+    text-align: center;
+    color: white;
+
+}
+
+h2{
+    text-align: center;
+    color: white;
+}
+
+.motivation-img{
+    margin: 20px;
+    border: 5px solid white;
+    
+}
